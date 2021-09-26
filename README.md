@@ -9,5 +9,7 @@
 ## :white_medium_square: How to run
 ### Once you load the page on your browser, click on the "Add Pacman" button (you can add as many Pacmans as you want). When you think you have enough images you click on the "Start Game" button and the fun begins!
 
+https://github.com/pabsanchez/PacMen/blob/main/index.html
+
 ## :white_medium_square: Roadmap of future improvements
 ### In a near future i would like to add a "Stop Game" button that restarts the entire game and also add random color images instead of the classic yellow Pacman.
