@@ -1,9 +1,8 @@
-# pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+# Pacmen Exercise
+## Description
+### Week 7 Final Exercise
+### This is an exercise called Pacmen Factory, it was a task to practice on DOM manipulation. 
+### It starts by adding as many Pacmen images as you want to the game div at a random position. They all start to bounce off screen vertical edges at a random velocity and when they touch the horizontal edges they change the direction of its movement.
+
 
 <img src="PacMan1.png">
